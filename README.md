@@ -1,4 +1,4 @@
-# Twitter-Sentimental-Analysis-
+# Twitter-Sentiment-Analysis-
 Sentiment Analysis of Tweets Using Naive Bayes
 
 This project classifies tweets as positive, negative or neutral using Naive Bayes Algorithm.
